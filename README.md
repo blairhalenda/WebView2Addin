@@ -9,7 +9,7 @@ Clone repository
 git clone https://github.com/blair-halenda/WebView2Addin.git
 ```
 
-Open in Visual Studio and debug.
+Open ```WebView2Addin.sln``` Visual Studio and debug.
 
 ## Reproducing Error
 ![Reproducing Error](/images/WebView2.png)
