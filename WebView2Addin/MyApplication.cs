@@ -28,6 +28,7 @@ namespace WebView2Addin
             {
                 CustomTaskPane customTaskPane = new CustomTaskPane();
                 TaskPane = Globals.ThisAddIn.CustomTaskPanes.Add(customTaskPane, "WebView2 Task Pane");
+                TaskPane.Width = 400;
             }
             TaskPane.Visible = true;
             

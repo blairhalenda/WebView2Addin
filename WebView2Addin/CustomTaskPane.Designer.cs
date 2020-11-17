@@ -47,6 +47,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.webView);
+            this.MinimumSize = new System.Drawing.Size(300, 300);
             this.Name = "CustomTaskPane";
             this.Size = new System.Drawing.Size(300, 300);
             this.ResumeLayout(false);
