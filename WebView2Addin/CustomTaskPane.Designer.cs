@@ -39,7 +39,6 @@
             this.webView.Name = "webView";
             this.webView.Size = new System.Drawing.Size(300, 300);
             this.webView.TabIndex = 0;
-            this.webView.Text = "webView21";
             this.webView.ZoomFactor = 1D;
             // 
             // CustomTaskPane
