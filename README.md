@@ -18,13 +18,13 @@ Open ```WebView2Addin.sln``` in Visual Studio and debug.
 
 2. Follow **Reproducing Error** steps below to reproduce error
 3. The debugger should hit an exception in the WebView2 source code
-4. Click ``Decompile Source`` to access the exception
+4. Click ``Decompile source code`` to access the exception
 
-![Decompile Source](/images/DecompileSourceCode.png)
+![Decompile Source Code](/images/DecompileSourceCode.png)
 
 5. View the exception details
 
-![Decompile Source](/images/Error.png)
+![Error](/images/Error.png)
 
 
 ## Reproducing Error
